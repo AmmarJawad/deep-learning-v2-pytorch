@@ -5754,3 +5754,5 @@ project-dog-classification/__MACOSX/lfw/._Dianne_Feinstein
 project-dog-classification/__MACOSX/lfw/._Derrick_Rodgers
 project-dog-classification/model_transfer.pt
 project-dog-classification/model_transfer.pt
+*.pt
+*.pt
