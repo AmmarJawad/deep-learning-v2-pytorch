@@ -5756,3 +5756,4 @@ project-dog-classification/model_transfer.pt
 project-dog-classification/model_transfer.pt
 *.pt
 *.pt
+project-face-generation/processed-celeba-small.zip
